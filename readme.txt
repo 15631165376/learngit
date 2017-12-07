@@ -6,3 +6,4 @@ Git tracks changes.
 我很好
 我要删除你
 Creating a NEW branch is quick and simple;
+分支管理策略
