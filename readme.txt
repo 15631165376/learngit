@@ -5,3 +5,4 @@ Git is a distributed version control system.
 Git tracks changes.
 我很好
 我要删除你
+Creating a NEW branch is quick;
